@@ -19,5 +19,11 @@ pip install git+https://github.com/gbanai/Calculator.git
 # Example
 
 ```python
-
+from Code.calculator import Calculator
+calc=Calculator()
+calc.addition(5) # returns 5
+calc.multiplication(3) # returns 15
+calc.subtraction(3) # returns 12
+calc.division(3) # returns 4
+print(calc.root(2)) # returns 2
 ```
