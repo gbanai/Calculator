@@ -20,7 +20,7 @@ pip install git+https://github.com/gbanai/Calculator.git
 
 ```python
 from Code.calculator import Calculator
-calc=Calculator()
+calc = Calculator()
 calc.addition(5) # returns 5
 calc.multiplication(3) # returns 15
 calc.subtraction(3) # returns 12
