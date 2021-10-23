@@ -8,7 +8,6 @@ Calculator package perfoms basic mathematical operations:
 -(n) root of a number (a^(1/b))<br />
 
 Calculator performs actions with a value inside its memory.
-Reset function 
 
 # Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install calculator
